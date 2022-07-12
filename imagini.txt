@@ -1,0 +1,12 @@
+\ImaginiCuAnimale\hipopotam1.jpg
+\ImaginiCuAnimale\hipopotam2.jpg
+\ImaginiCuAnimale\hipopotam3.jpg
+\ImaginiCuAnimale\rinocer1.jpg
+\ImaginiCuAnimale\rinocer2.jpg
+\ImaginiCuAnimale\rinocer3.jpg
+\ImaginiCuAnimale\urs1.jpg
+\ImaginiCuAnimale\urs2.jpg
+\ImaginiCuAnimale\urs3.jpg
+\ImaginiCuAnimale\vacă1.jpg
+\ImaginiCuAnimale\vacă2.jpg
+\ImaginiCuAnimale\vacă3.jpg

@@ -1,0 +1,88 @@
+C:\Users\ilies\OneDrive\Desktop\tema_proiect\Solutie\InterfataCuUtilizatorul\bin\Debug\InterfataCuUtilizatorul.exe.config
+C:\Users\ilies\OneDrive\Desktop\tema_proiect\Solutie\InterfataCuUtilizatorul\bin\Debug\InterfataCuUtilizatorul.exe
+C:\Users\ilies\OneDrive\Desktop\tema_proiect\Solutie\InterfataCuUtilizatorul\bin\Debug\InterfataCuUtilizatorul.pdb
+C:\Users\ilies\OneDrive\Desktop\tema_proiect\Solutie\InterfataCuUtilizatorul\bin\Debug\Librarie.dll
+C:\Users\ilies\OneDrive\Desktop\tema_proiect\Solutie\InterfataCuUtilizatorul\bin\Debug\StocareDate.dll
+C:\Users\ilies\OneDrive\Desktop\tema_proiect\Solutie\InterfataCuUtilizatorul\bin\Debug\Librarie.pdb
+C:\Users\ilies\OneDrive\Desktop\tema_proiect\Solutie\InterfataCuUtilizatorul\bin\Debug\StocareDate.pdb
+C:\Users\ilies\OneDrive\Desktop\tema_proiect\Solutie\InterfataCuUtilizatorul\obj\Debug\InterfataCuUtilizatorul.csproj.AssemblyReference.cache
+C:\Users\ilies\OneDrive\Desktop\tema_proiect\Solutie\InterfataCuUtilizatorul\obj\Debug\InterfataCuUtilizatorul.Properties.Resources.resources
+C:\Users\ilies\OneDrive\Desktop\tema_proiect\Solutie\InterfataCuUtilizatorul\obj\Debug\InterfataCuUtilizatorul.csproj.GenerateResource.cache
+C:\Users\ilies\OneDrive\Desktop\tema_proiect\Solutie\InterfataCuUtilizatorul\obj\Debug\InterfataCuUtilizatorul.csproj.CoreCompileInputs.cache
+C:\Users\ilies\OneDrive\Desktop\tema_proiect\Solutie\InterfataCuUtilizatorul\obj\Debug\InterfataCuUtilizatorul.csproj.CopyComplete
+C:\Users\ilies\OneDrive\Desktop\tema_proiect\Solutie\InterfataCuUtilizatorul\obj\Debug\InterfataCuUtilizatorul.exe
+C:\Users\ilies\OneDrive\Desktop\tema_proiect\Solutie\InterfataCuUtilizatorul\obj\Debug\InterfataCuUtilizatorul.pdb
+C:\Users\ilies\OneDrive\Desktop\tema_proiect\Solutie\InterfataCuUtilizatorul\obj\Debug\InterfataCuUtilizatorul.MyForm.resources
+C:\Users\ilies\OneDrive\Desktop\tema_proiect\Solutie\InterfataCuUtilizatorul\obj\Debug\InterfataCuUtilizatorul.afisareCerinta.resources
+C:\Users\STUDENT\Desktop\tema_proiect\tema_proiect\Solutie\InterfataCuUtilizatorul\bin\Debug\InterfataCuUtilizatorul.exe.config
+C:\Users\STUDENT\Desktop\tema_proiect\tema_proiect\Solutie\InterfataCuUtilizatorul\bin\Debug\InterfataCuUtilizatorul.exe
+C:\Users\STUDENT\Desktop\tema_proiect\tema_proiect\Solutie\InterfataCuUtilizatorul\bin\Debug\InterfataCuUtilizatorul.pdb
+C:\Users\STUDENT\Desktop\tema_proiect\tema_proiect\Solutie\InterfataCuUtilizatorul\bin\Debug\Librarie.dll
+C:\Users\STUDENT\Desktop\tema_proiect\tema_proiect\Solutie\InterfataCuUtilizatorul\bin\Debug\StocareDate.dll
+C:\Users\STUDENT\Desktop\tema_proiect\tema_proiect\Solutie\InterfataCuUtilizatorul\bin\Debug\Librarie.pdb
+C:\Users\STUDENT\Desktop\tema_proiect\tema_proiect\Solutie\InterfataCuUtilizatorul\bin\Debug\StocareDate.pdb
+C:\Users\STUDENT\Desktop\tema_proiect\tema_proiect\Solutie\InterfataCuUtilizatorul\obj\Debug\InterfataCuUtilizatorul.csproj.AssemblyReference.cache
+C:\Users\STUDENT\Desktop\tema_proiect\tema_proiect\Solutie\InterfataCuUtilizatorul\obj\Debug\InterfataCuUtilizatorul.afisareCerinta.resources
+C:\Users\STUDENT\Desktop\tema_proiect\tema_proiect\Solutie\InterfataCuUtilizatorul\obj\Debug\InterfataCuUtilizatorul.MyForm.resources
+C:\Users\STUDENT\Desktop\tema_proiect\tema_proiect\Solutie\InterfataCuUtilizatorul\obj\Debug\InterfataCuUtilizatorul.Properties.Resources.resources
+C:\Users\STUDENT\Desktop\tema_proiect\tema_proiect\Solutie\InterfataCuUtilizatorul\obj\Debug\InterfataCuUtilizatorul.csproj.GenerateResource.cache
+C:\Users\STUDENT\Desktop\tema_proiect\tema_proiect\Solutie\InterfataCuUtilizatorul\obj\Debug\InterfataCuUtilizatorul.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT\Desktop\tema_proiect\tema_proiect\Solutie\InterfataCuUtilizatorul\obj\Debug\InterfataCuUtilizatorul.exe
+C:\Users\STUDENT\Desktop\tema_proiect\tema_proiect\Solutie\InterfataCuUtilizatorul\obj\Debug\InterfataCuUtilizatorul.pdb
+C:\Users\ilies\Downloads\tema_proiect\tema_proiect\tema_proiect\Solutie\InterfataCuUtilizatorul\bin\Debug\InterfataCuUtilizatorul.exe.config
+C:\Users\ilies\Downloads\tema_proiect\tema_proiect\tema_proiect\Solutie\InterfataCuUtilizatorul\bin\Debug\InterfataCuUtilizatorul.exe
+C:\Users\ilies\Downloads\tema_proiect\tema_proiect\tema_proiect\Solutie\InterfataCuUtilizatorul\bin\Debug\InterfataCuUtilizatorul.pdb
+C:\Users\ilies\Downloads\tema_proiect\tema_proiect\tema_proiect\Solutie\InterfataCuUtilizatorul\bin\Debug\Librarie.dll
+C:\Users\ilies\Downloads\tema_proiect\tema_proiect\tema_proiect\Solutie\InterfataCuUtilizatorul\bin\Debug\StocareDate.dll
+C:\Users\ilies\Downloads\tema_proiect\tema_proiect\tema_proiect\Solutie\InterfataCuUtilizatorul\bin\Debug\Librarie.pdb
+C:\Users\ilies\Downloads\tema_proiect\tema_proiect\tema_proiect\Solutie\InterfataCuUtilizatorul\bin\Debug\StocareDate.pdb
+C:\Users\ilies\Downloads\tema_proiect\tema_proiect\tema_proiect\Solutie\InterfataCuUtilizatorul\obj\Debug\InterfataCuUtilizatorul.csproj.AssemblyReference.cache
+C:\Users\ilies\Downloads\tema_proiect\tema_proiect\tema_proiect\Solutie\InterfataCuUtilizatorul\obj\Debug\InterfataCuUtilizatorul.Adaugare.resources
+C:\Users\ilies\Downloads\tema_proiect\tema_proiect\tema_proiect\Solutie\InterfataCuUtilizatorul\obj\Debug\InterfataCuUtilizatorul.afisareCerinta.resources
+C:\Users\ilies\Downloads\tema_proiect\tema_proiect\tema_proiect\Solutie\InterfataCuUtilizatorul\obj\Debug\InterfataCuUtilizatorul.MyForm.resources
+C:\Users\ilies\Downloads\tema_proiect\tema_proiect\tema_proiect\Solutie\InterfataCuUtilizatorul\obj\Debug\InterfataCuUtilizatorul.Properties.Resources.resources
+C:\Users\ilies\Downloads\tema_proiect\tema_proiect\tema_proiect\Solutie\InterfataCuUtilizatorul\obj\Debug\InterfataCuUtilizatorul.csproj.GenerateResource.cache
+C:\Users\ilies\Downloads\tema_proiect\tema_proiect\tema_proiect\Solutie\InterfataCuUtilizatorul\obj\Debug\InterfataCuUtilizatorul.csproj.CoreCompileInputs.cache
+C:\Users\ilies\Downloads\tema_proiect\tema_proiect\tema_proiect\Solutie\InterfataCuUtilizatorul\obj\Debug\InterfataCuUtilizatorul.csproj.CopyComplete
+C:\Users\ilies\Downloads\tema_proiect\tema_proiect\tema_proiect\Solutie\InterfataCuUtilizatorul\obj\Debug\InterfataCuUtilizatorul.exe
+C:\Users\ilies\Downloads\tema_proiect\tema_proiect\tema_proiect\Solutie\InterfataCuUtilizatorul\obj\Debug\InterfataCuUtilizatorul.pdb
+C:\Users\ilies\OneDrive\Desktop\tema_proiect\Solutie\InterfataCuUtilizatorul\obj\Debug\InterfataCuUtilizatorul.Adaugare.resources
+C:\Users\STUDENT\Desktop\tema_proiect\tema_proiect\Solutie\InterfataCuUtilizatorul\obj\Debug\InterfataCuUtilizatorul.Adaugare.resources
+C:\Users\STUDENT\Desktop\tema_proiect\tema_proiect\Solutie\InterfataCuUtilizatorul\obj\Debug\InterfataCuUtilizatorul.Setari.resources
+C:\Users\ilies\OneDrive\Desktop\tema_proiect\Solutie\InterfataCuUtilizatorul\obj\Debug\InterfataCuUtilizatorul.Setari.resources
+C:\Users\ilies\OneDrive\Desktop\PIU\Laborator\Proiect\Solutie\InterfataCuUtilizatorul\bin\Debug\InterfataCuUtilizatorul.exe.config
+C:\Users\ilies\OneDrive\Desktop\PIU\Laborator\Proiect\Solutie\InterfataCuUtilizatorul\bin\Debug\InterfataCuUtilizatorul.exe
+C:\Users\ilies\OneDrive\Desktop\PIU\Laborator\Proiect\Solutie\InterfataCuUtilizatorul\bin\Debug\InterfataCuUtilizatorul.pdb
+C:\Users\ilies\OneDrive\Desktop\PIU\Laborator\Proiect\Solutie\InterfataCuUtilizatorul\bin\Debug\Librarie.dll
+C:\Users\ilies\OneDrive\Desktop\PIU\Laborator\Proiect\Solutie\InterfataCuUtilizatorul\bin\Debug\StocareDate.dll
+C:\Users\ilies\OneDrive\Desktop\PIU\Laborator\Proiect\Solutie\InterfataCuUtilizatorul\bin\Debug\Librarie.pdb
+C:\Users\ilies\OneDrive\Desktop\PIU\Laborator\Proiect\Solutie\InterfataCuUtilizatorul\bin\Debug\StocareDate.pdb
+C:\Users\ilies\OneDrive\Desktop\PIU\Laborator\Proiect\Solutie\InterfataCuUtilizatorul\obj\Debug\InterfataCuUtilizatorul.csproj.AssemblyReference.cache
+C:\Users\ilies\OneDrive\Desktop\PIU\Laborator\Proiect\Solutie\InterfataCuUtilizatorul\obj\Debug\InterfataCuUtilizatorul.Properties.Resources.resources
+C:\Users\ilies\OneDrive\Desktop\PIU\Laborator\Proiect\Solutie\InterfataCuUtilizatorul\obj\Debug\InterfataCuUtilizatorul.Setari.resources
+C:\Users\ilies\OneDrive\Desktop\PIU\Laborator\Proiect\Solutie\InterfataCuUtilizatorul\obj\Debug\InterfataCuUtilizatorul.csproj.GenerateResource.cache
+C:\Users\ilies\OneDrive\Desktop\PIU\Laborator\Proiect\Solutie\InterfataCuUtilizatorul\obj\Debug\InterfataCuUtilizatorul.csproj.CoreCompileInputs.cache
+C:\Users\ilies\OneDrive\Desktop\PIU\Laborator\Proiect\Solutie\InterfataCuUtilizatorul\obj\Debug\InterfataCuUtilizatorul.csproj.CopyComplete
+C:\Users\ilies\OneDrive\Desktop\PIU\Laborator\Proiect\Solutie\InterfataCuUtilizatorul\obj\Debug\InterfataCuUtilizatorul.exe
+C:\Users\ilies\OneDrive\Desktop\PIU\Laborator\Proiect\Solutie\InterfataCuUtilizatorul\obj\Debug\InterfataCuUtilizatorul.pdb
+C:\Users\ilies\OneDrive\Desktop\PIU\Laborator\Proiect\Solutie\InterfataCuUtilizatorul\obj\Debug\InterfataCuUtilizatorul.AdaugaSterge.resources
+C:\Users\ilies\OneDrive\Desktop\PIU\Laborator\Proiect\Solutie\InterfataCuUtilizatorul\obj\Debug\InterfataCuUtilizatorul.StartForm.resources
+C:\Users\ilies\OneDrive\Desktop\PIU\Laborator\Proiect\Solutie\InterfataCuUtilizatorul\obj\Debug\InterfataCuUtilizatorul.AfisareCerinte.resources
+C:\Users\ilies\OneDrive\Desktop\Proiect C#\InterfataCuUtilizatorul\bin\Debug\InterfataCuUtilizatorul.exe.config
+C:\Users\ilies\OneDrive\Desktop\Proiect C#\InterfataCuUtilizatorul\bin\Debug\InterfataCuUtilizatorul.exe
+C:\Users\ilies\OneDrive\Desktop\Proiect C#\InterfataCuUtilizatorul\bin\Debug\InterfataCuUtilizatorul.pdb
+C:\Users\ilies\OneDrive\Desktop\Proiect C#\InterfataCuUtilizatorul\bin\Debug\Librarie.dll
+C:\Users\ilies\OneDrive\Desktop\Proiect C#\InterfataCuUtilizatorul\bin\Debug\StocareDate.dll
+C:\Users\ilies\OneDrive\Desktop\Proiect C#\InterfataCuUtilizatorul\bin\Debug\Librarie.pdb
+C:\Users\ilies\OneDrive\Desktop\Proiect C#\InterfataCuUtilizatorul\bin\Debug\StocareDate.pdb
+C:\Users\ilies\OneDrive\Desktop\Proiect C#\InterfataCuUtilizatorul\obj\Debug\InterfataCuUtilizatorul.csproj.AssemblyReference.cache
+C:\Users\ilies\OneDrive\Desktop\Proiect C#\InterfataCuUtilizatorul\obj\Debug\InterfataCuUtilizatorul.AdaugaSterge.resources
+C:\Users\ilies\OneDrive\Desktop\Proiect C#\InterfataCuUtilizatorul\obj\Debug\InterfataCuUtilizatorul.AfisareCerinte.resources
+C:\Users\ilies\OneDrive\Desktop\Proiect C#\InterfataCuUtilizatorul\obj\Debug\InterfataCuUtilizatorul.StartForm.resources
+C:\Users\ilies\OneDrive\Desktop\Proiect C#\InterfataCuUtilizatorul\obj\Debug\InterfataCuUtilizatorul.Properties.Resources.resources
+C:\Users\ilies\OneDrive\Desktop\Proiect C#\InterfataCuUtilizatorul\obj\Debug\InterfataCuUtilizatorul.Setari.resources
+C:\Users\ilies\OneDrive\Desktop\Proiect C#\InterfataCuUtilizatorul\obj\Debug\InterfataCuUtilizatorul.csproj.GenerateResource.cache
+C:\Users\ilies\OneDrive\Desktop\Proiect C#\InterfataCuUtilizatorul\obj\Debug\InterfataCuUtilizatorul.csproj.CoreCompileInputs.cache
+C:\Users\ilies\OneDrive\Desktop\Proiect C#\InterfataCuUtilizatorul\obj\Debug\InterfataCuUtilizatorul.csproj.CopyComplete
+C:\Users\ilies\OneDrive\Desktop\Proiect C#\InterfataCuUtilizatorul\obj\Debug\InterfataCuUtilizatorul.exe
+C:\Users\ilies\OneDrive\Desktop\Proiect C#\InterfataCuUtilizatorul\obj\Debug\InterfataCuUtilizatorul.pdb
